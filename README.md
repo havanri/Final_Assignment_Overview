@@ -20,8 +20,8 @@ The dataset includes:
 ## 🧰 Tools Used
 
 - **Microsoft Excel**: PivotTables, PivotCharts, Slicers, and Dashboard layout
-- **PowerPoint**: Summary presentation of key findings
-- (Optionally) **Power BI**: for future scalability
+- **PowerPoint**
+- **IBM Cognos Studio**
 
 ## 📊 Key Insights
 
